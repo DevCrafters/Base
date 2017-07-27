@@ -1,0 +1,1 @@
+import org.bukkit.Bukkit;public class Main {public void onEnable(){Bukkit.getConsoleSender().sendMessage("Test Plugin Turned on.");}public void onDisable(){Bukkit.getConsoleSender().sendMessage("Test Plugin Turned OFF.");}}
